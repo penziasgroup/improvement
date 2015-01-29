@@ -1,7 +1,7 @@
 
 ;----------// Theme Information
 
-  name        = site_name_theme
+  name        = Improvement Theme
   description = Theme based off microsite base theme
   core        = 7.x
   base theme  = microsite_base_theme
