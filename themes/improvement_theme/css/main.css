@@ -11,3 +11,6 @@ Custom CSS styles that override base theme go here.
   display:none;
 }
 
+.page-schedule td strong {
+  font-size:14px;
+}
