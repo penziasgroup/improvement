@@ -14,3 +14,26 @@ Custom CSS styles that override base theme go here.
 .page-schedule td strong {
   font-size:14px;
 }
+
+.bio-full,
+.close-me,
+.open .read-more {
+  display:none;
+}
+
+.open .close-me {
+  display:block;
+}
+
+a,
+a:link,
+a:active,
+a:visited {
+color:#0000FF;
+}
+
+.bio-content {
+  overflow:hidden;
+  padding-bottom:20px;
+  clear:both;
+}
